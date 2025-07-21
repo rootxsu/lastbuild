@@ -1,7 +1,7 @@
   {
     "version_code": 5,
     "version_name": "1.0.5",
-    "force_update": true,
+    "force_update": false,
     "update_message": "A new version is available. Please update to continue.",
     "download_url": "https://yourdomain.com/app-latest.apk"
   }
